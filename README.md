@@ -1,7 +1,7 @@
 ## Installing and runing project at your local host
 1. Download project to you local computer 
    + Download project 
-     + __git clone https://github.com/alasgar88/blog.git__
+     + __git clone https://github.com/alasgar88/Django-Project.git__
    + Go to directory __blog__
      + __cd blog__
       
