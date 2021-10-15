@@ -1,9 +1,9 @@
 ## Installing and runing project at your local host
 1. Download project to you local computer 
    + Download project 
-     + __git clone https://github.com/alasgar88/blog.git__
-   + Go to directory __blog__
-     + __cd blog__
+     + __git clone https://github.com/alasgar88/Django-Project.git__
+   + Go to directory __Django-Project__
+     + __cd Django-Project__
       
 2. Create virtual environment (e.g with the module of venv) 
    + create virtual environtment
